@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Streamlit Cache
+.streamlit/
+
+# Reports (optional)
+reports/*.csv
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+data/*.csv
+reports/*.csv
