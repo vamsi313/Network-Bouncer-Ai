@@ -142,7 +142,7 @@ Network-Bouncer-Ai/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Step 1 — Run the Analysis Engine
 ```bash
@@ -250,4 +250,4 @@ The dashboard includes:
 
 ---
 
-*Built for the Dell FutureMinds AI Hackathon*
+*Built for the Dell FutureMinds AI Hackathon , By Team Code Pirates*
