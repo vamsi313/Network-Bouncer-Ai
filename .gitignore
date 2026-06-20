@@ -17,8 +17,8 @@ __pycache__/
 # Streamlit Cache
 .streamlit/
 
-# Reports (optional)
-reports/*.csv
+# Reports — keep the pre-generated report for deployment
+# reports/*.csv
 
 # OS Files
 .DS_Store
